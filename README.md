@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ying Zhou
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in software development, data science, and machine learning
 - 🌱 I’m currently studying Computer Science at McGill University in Canada
 
 <!---
